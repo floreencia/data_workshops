@@ -19,7 +19,7 @@ This repository contains the material for the Data Workshops held at CODE Univer
 
 26.03 Social network analysis
 
-02.04 Recommendation systems
+02.04 Recommender systems
 
 09.04 Check-up
 
