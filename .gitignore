@@ -1,3 +1,5 @@
 # don't track solutions directory
 
 s1_NumPy_Matplotlib/_solutions
+s2_Pandas_Seaborn/_*
+_*
