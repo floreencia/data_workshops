@@ -3,3 +3,4 @@
 s1_NumPy_Matplotlib/_solutions
 s2_Pandas_Seaborn/_*
 _*
+.ipynb_checkpoints*
